@@ -1,6 +1,6 @@
-# ImageLinker: Instant Image URL Generator
+# MianLinker: Instant Image URL Generator
 
-ImageLinker is a powerful and user-friendly tool that allows users to upload images and instantly generate shareable URLs. Built with a modern tech stack, it ensures a seamless and secure experience for image hosting and sharing.
+MianLinker is a powerful and user-friendly tool that allows users to upload images and instantly generate shareable URLs. Built with a modern tech stack, it ensures a seamless and secure experience for image hosting and sharing.
 
 ## 🌟 Features
 
@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🌐 Connect
 
 - **GitHub**: [Mianhassam96](https://github.com/Mianhassam96)
-- **Live Demo**: [ImageLinker](https://image-linker-instant-image-url-generator.vercel.app/)
+- **Live Demo**: [ImageLinker](https://mian-linker.vercel.app/)
 - **Email**: [mhassamkb@gmail.com](mailto:mhassamkb@gmail.com)
 
 ---
