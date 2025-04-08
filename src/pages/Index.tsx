@@ -46,7 +46,7 @@ const Index = () => {
       <header className="bg-[#9b87f5] text-white py-4 px-6 shadow-lg">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <h1 className="text-3xl font-bold tracking-wider hover:text-[#1A1F2C] transition-colors duration-300">
-            MultiMian
+            MianLinker
           </h1>
           <div className="text-sm font-medium">
             Image to URL Converter
@@ -122,7 +122,7 @@ const Index = () => {
       <footer className="bg-[#1A1F2C] text-white py-6 px-4">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-2xl font-bold tracking-wider text-[#9b87f5]">
-          MianLinker
+          Mian Hassam
           </div>
           <div className="text-sm text-gray-400">
             © {new Date().getFullYear()} MultiMian. All rights reserved.
