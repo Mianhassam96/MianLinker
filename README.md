@@ -45,30 +45,9 @@ Follow these steps to set up the project locally:
 3. Instantly receive a shareable URL for the uploaded image.
 4. Copy and use the URL wherever needed.
 
-## 🎨 Screenshots
 
-Add screenshots of your tool here to showcase its features and design.
 
-## 🤝 Contributions
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-6. Live Preview: https://mian-linker.vercel.app/
+Live Preview: https://mian-linker.vercel.app/
 
 ## 📄 License
 
