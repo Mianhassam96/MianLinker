@@ -46,9 +46,6 @@ Follow these steps to set up the project locally:
 4. Copy and use the URL wherever needed.
 
 
-
-Live Preview: https://mian-linker.vercel.app/
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
